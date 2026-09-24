@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/kimhuisik451/mother-ledger-releases/main/ledger-7.apk",
-  "sha256": "f4dc058e600ead46e733f6f4676bcbb9f1ff7d376a7f7d307ef1caf0c24d559e",
-  "size": 9322207,
-  "note": "고정 주소 추가, 자동 설치 시험"
+  "versionCode": 13,
+  "versionName": "0.13.0",
+  "apkUrl": "https://raw.githubusercontent.com/kimhuisik451/mother-ledger-releases/main/ledger-13.apk",
+  "sha256": "e0d7971d93fdc0db4bc8c5e7324faa88983721470e06751d402e321d313594c1",
+  "size": 9338595,
+  "note": "달력 입/출 표시, 날짜별 합계, 뒤로가기 개선"
 }
