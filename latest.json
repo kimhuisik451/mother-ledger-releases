@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13.0",
-  "apkUrl": "https://raw.githubusercontent.com/kimhuisik451/mother-ledger-releases/main/ledger-13.apk",
-  "sha256": "e0d7971d93fdc0db4bc8c5e7324faa88983721470e06751d402e321d313594c1",
-  "size": 9338595,
-  "note": "달력 입/출 표시, 날짜별 합계, 뒤로가기 개선"
+  "versionCode": 15,
+  "versionName": "0.15.0",
+  "apkUrl": "https://raw.githubusercontent.com/kimhuisik451/mother-ledger-releases/main/ledger-15.apk",
+  "sha256": "b6abd1267d67ea004a30ad80463b0d71168caaf85dc852d5edd660bb62c5c5d4",
+  "size": 9354979,
+  "note": "계좌 잔액 맞추기 추가"
 }
